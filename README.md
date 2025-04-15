@@ -6,9 +6,15 @@ FlixFinder is a SwiftUI-based iOS app that recommends movies based on your mood 
 
 ## 📱 Screenshots
 
-| Home Screen  |/var/folders/jn/5qx3pprn3_528czfh112qddh0000gn/T/simulator_screenshot_93CFAD42-D5C9-4404-854C-EBCF144C70D1.png
+
+| Home Screen  
+![simulator_screenshot_ABA03D8B-985B-422B-8DA7-BFD891301A7D](https://github.com/user-attachments/assets/857c6213-873c-4dde-a06a-779dc843cb24)
+
+
+
 | Movie Recommendations
-/var/folders/jn/5qx3pprn3_528czfh112qddh0000gn/T/simulator_screenshot_E5630124-6515-4BE7-B4E4-7D49D1B8793B.png
+![simulator_screenshot_944F6013-9252-4D7F-B89F-2D0105FB1D91](https://github.com/user-attachments/assets/66446e36-0e00-4c6e-add9-e83ed147bab7)
+
 
 ---
 
